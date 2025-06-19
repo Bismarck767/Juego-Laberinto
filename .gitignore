@@ -1,0 +1,16 @@
+# Ignorar archivos compilados
+*.class
+*.jar
+
+# Ignorar carpetas generadas por IDE
+/dist/
+/build/
+/out/
+/nbproject/private/
+/.idea/
+/.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
